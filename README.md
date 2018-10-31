@@ -8,7 +8,7 @@ Angular framwwork was chosen for this task, the nature of Angular's MVC architec
 A live demo is hosted at AWS : http://18.236.79.127
 
 ## Installation
-Install Node.js version 8.x or 10.x. if dont have it already installed.
+Install Node.js version 8.x or 10.x. if you dont have it already installed.
 
 Install Angular CLI:
 `npm install -g @angular/cli`
