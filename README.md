@@ -1,14 +1,17 @@
 # TriangleType
 An app to determine determine the type of a triangle, using Angular 6 and Tradeshift UI
 
-##Description
+## Description
 Angular framwwork was chosen for this task, the nature of Angular's MVC architecture, excellent readability (typescript), reusability, unit-test friendly and maintainability makes it a perfect choice, i also prefer  Angular because it can be easily reused to develop mobile app via Ionic framework. Tradeshift UI goes well with Angular 6 and form control seems great with UI.
 
-##Installation
+## Live demo
+A live demo is hosted at AWS : http://18.236.79.127
+
+## Installation
 Install Node.js version 8.x or 10.x. if dont have it already installed.
 
 Install Angular CLI:
-npm install -g @angular/cli
+`npm install -g @angular/cli`
 
 Clone this repository, navigate to folder and run `npm install`
 
