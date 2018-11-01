@@ -2,7 +2,7 @@
 An app to determine determine the type of a triangle, using Angular 6 and Tradeshift UI
 
 ## Description
-Angular framwwork was chosen for this task, the nature of Angular's MVC architecture, excellent readability (typescript), reusability, unit-test friendly and maintainability makes it a perfect choice, i also prefer  Angular because it can be easily reused to develop mobile app via Ionic framework. Tradeshift UI goes well with Angular 6 and form control seems great with UI.
+Angular framework was chosen for this task, the nature of Angular's MVC architecture, excellent readability (typescript), reusability, unit-test friendly and maintainability makes it a perfect choice, i also prefer  Angular because it can be easily reused to develop mobile app via Ionic framework. Tradeshift UI goes well with Angular 6 and form control seems great with UI.
 
 ## Live demo
 A live demo is hosted at AWS : http://18.236.79.127
